@@ -1,2 +1,3 @@
 # simplebank
-S
+
+GO Based REST API For Banking Application
